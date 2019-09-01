@@ -1,0 +1,48 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white; 
+    background-color: black; 
+    font-size: 22px;
+    font-weight: normal;
+    text-align: center;
+     }
+     
+        
+        h1{
+            font-size: 50px;
+            text-emphasis: bold; 
+        }
+        a {
+            font-size: 16px;
+            color: aquamarine;
+        }
+
+        .underline {
+            font-size: 16px;
+            color: aquamarine;
+            text-decoration: underline;
+        }
+        h2{
+            font-size: 32px;
+            font-weight: 300;
+
+        }    
+        h3{
+        font-size: 12px;
+        color: gray; 
+    }
+        h5{
+        font-size: .8rem;
+        }
+    
+        
+      
+
+   
+    
+    /* Footer Section */
+   
+    .copyright {
+        
+        text-align: right;
+    }
